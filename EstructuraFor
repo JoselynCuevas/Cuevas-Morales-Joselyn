@@ -1,21 +1,17 @@
-imprimir ("1. Ejercicio")
-para x en rango (1,8):
-    print ("*" * a)
-impresión ()
+print ("1. Ejercicio")
+for j in range (1,8):
+    print('*' * j)
 
-imprimir ("2. Ejercicio")
-para x en el rango (8, 0, -1):
-    print ("*" *b)
-impresión ()
+print ("2. Ejercicio")
+for k in range (8, 0, -1):
+    print ('*' * k)
 
-imprimir("3. Ejercicio")
-para x en el rango (1,8):
-    print ("*" * a)
-para y en el rango (8, 0, -1):
-    print ("*" *b)
-impresión ()
+print ("3. Ejercicio")
+for l in range (1,8):
+    print '*' * l)
+for m in range (8, 0, -1):
+    print '*' * m)
 
-imprimir ("4. Ejercicio")
-para y en el rango (1,8):
-    imprimir ("*" * 8)
-impresión ()
+print ("4. Ejercicio")
+for n in range (1,8):
+   print  ('*' * 8)
