@@ -1,0 +1,21 @@
+imprimir ("1. Ejercicio")
+para x en rango (1,8):
+    print ("*" * a)
+impresión ()
+
+imprimir ("2. Ejercicio")
+para x en el rango (8, 0, -1):
+    print ("*" *b)
+impresión ()
+
+imprimir("3. Ejercicio")
+para x en el rango (1,8):
+    print ("*" * a)
+para y en el rango (8, 0, -1):
+    print ("*" *b)
+impresión ()
+
+imprimir ("4. Ejercicio")
+para y en el rango (1,8):
+    imprimir ("*" * 8)
+impresión ()
